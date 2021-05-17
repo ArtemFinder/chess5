@@ -1,0 +1,36 @@
+.board {
+    display: flex;
+    width: 300px;
+    height: 300px;
+}
+
+.black_board {
+    width: 30px;
+    height: 30px;
+    background: saddlebrown;
+    text-align: center;
+}
+
+.white_board {
+    width: 30px;
+    height: 30px;
+    background: burlywood;
+    text-align: center;
+}
+
+.razmetka {
+    width: 30px;
+    height: 30px;
+    background: rgb(219, 191, 155);
+    text-align: center;
+}
+
+.white {
+    font-size: 25px;
+    color: white;
+}
+
+.black {
+    font-size: 25px;
+    color: black;
+}
